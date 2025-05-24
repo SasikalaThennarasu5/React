@@ -1,0 +1,10 @@
+.hobby-list {
+  list-style-type: circle;
+  padding-left: 20px;
+  color: #444;
+  font-size: 1.1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hobby-list li {
+  margin-bottom: 5px;
+}

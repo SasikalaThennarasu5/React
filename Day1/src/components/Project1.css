@@ -1,0 +1,14 @@
+.bio {
+  border: 2px solid #008cba;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif;
+}
+.bio h2 {
+  color: #333;
+}
+.bio p {
+  margin: 5px 0;
+}
