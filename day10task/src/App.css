@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+.app {
+  max-width: 600px;
+  margin: auto;
+}
+
+.task {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px #ccc;
+}
+
+.task h2 {
+  margin-bottom: 10px;
+}
+
+.task button {
+  margin: 5px;
+  padding: 8px 12px;
+  border: none;
+  background: #007bff;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.task input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.task span {
+  color: red;
+  font-size: 12px;
+}
