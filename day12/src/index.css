@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f0f0;
+}
+
+nav {
+  background-color: #0077cc;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav button {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: white;
+  color: #0077cc;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background-color: #e0e0e0;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.task, .project {
+  background-color: white;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
